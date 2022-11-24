@@ -1,0 +1,3 @@
+[submodule "nexmon"]
+	path = nexmon
+	url = https://github.com/seemoo-lab/nexmon.git
